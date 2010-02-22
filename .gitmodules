@@ -1,0 +1,6 @@
+[submodule "autoload"]
+	path = autoload
+	url = git://github.com/paulnicholson/vim-pathogen.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
