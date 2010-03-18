@@ -1,0 +1,2 @@
+snippet edit_form
+	-form_for :${1:model}, @$1, :url => ${2:$1_path(@$1)}, :html => {:id => '${3:edit_$1}', :method => :put} do |f|
