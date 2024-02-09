@@ -37,9 +37,10 @@ set splitright
 if has("gui_running")
   set guioptions+=TlRLrb
   set guioptions-=TlRLrb
+  colorscheme jellybeans
+  set fuoptions=maxvert,maxhorz
 endif
 
-colorscheme textmate
 
 " Strip trailing whitespace
 autocmd BufWritePre * :%s/\s\+$//e
