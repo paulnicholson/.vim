@@ -28,9 +28,6 @@
 [submodule "bundle/tabular"]
 	path = bundle/tabular
 	url = https://github.com/godlygeek/tabular
-[submodule "bundle/ack"]
-	path = bundle/ack
-	url = https://github.com/mileszs/ack.vim.git
 [submodule "bundle/command-t"]
 	path = bundle/command-t
 	url = git://git.wincent.com/command-t.git
@@ -46,6 +43,9 @@
 [submodule "pack/colors/start/jellybeans"]
 	path = pack/colors/start/jellybeans
 	url = https://github.com/nanotech/jellybeans.vim.git
+[submodule "pack/plugins/start/ack"]
+	path = pack/plugins/start/ack
+	url = https://github.com/mileszs/ack.vim.git
 [submodule "pack/plugins/start/nerdcommenter"]
 	path = pack/plugins/start/nerdcommenter
 	url = https://github.com/preservim/nerdcommenter.git
